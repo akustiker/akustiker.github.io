@@ -30,7 +30,7 @@ theme: minima
 gems:
   - jekyll-feed
 
-# Disqus
+# Disqus settings
 disqus:
   shortname: akustiker
 
