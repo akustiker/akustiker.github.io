@@ -26,7 +26,7 @@ github_username:  akustiker
 
 # Build settings
 markdown: kramdown
-theme: minimal
+theme: jekyll-theme-tactile
 gems:
   - jekyll-feed
 
