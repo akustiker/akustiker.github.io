@@ -1,4 +1,2 @@
-https://akustiker.github.io/
-
-# akustiker.github.io
+# pmeier.de
 My personal blog.
