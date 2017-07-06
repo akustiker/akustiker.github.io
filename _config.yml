@@ -17,8 +17,8 @@ title: pmeier.de
 email: mail@pmeier.de
 description: > # this means to ignore newlines until "baseurl:"
   Hi there! I'm an audio engineer working at Deggendorf Institut of Technologie.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "http://www.pmeier.de" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: akustiker
 github_username:  akustiker
 
@@ -27,6 +27,10 @@ markdown: kramdown
 theme: minima
 gems:
   - jekyll-feed
+
+# Disqus Setup
+disqus:
+  shortname: akustiker
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
