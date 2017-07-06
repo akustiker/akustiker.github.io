@@ -30,9 +30,11 @@ theme: minima
 gems:
   - jekyll-feed
 
-# Disqus settings
-disqus:
-  shortname: akustiker
+#wire this up
+comments:
+  provider: disqus
+  disqus:
+    short_name: akustiker
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
