@@ -36,6 +36,14 @@ Germany
 - **2004 - 2008**: Technische Hochschule Deggendorf
 <br>_Dipl.-Ing. (FH)_ mit Auszeichnung
 
+## Arbeiten
+
+- **Masterarbeit**<br>
+> Implementierung digitaler Audiofilter zur Anwendung in psychoakustischen Hörversuchssystemen
+
+- **Diplomarbeit**<br>
+> Optimierte Signalprogrammierung eines Hörschwellenmesssystems mit Verifizierung durch Hörversuche
+
 ## Interessen
 
 - Audiometrie
