@@ -4,15 +4,64 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+## Kontakt
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+#### **Peter Meier, M.Eng.**
+📧 [peter.meier@th-deg.de](mailto:peter.meier@th-deg.de)<br>
+📧 [mail@pmeier.de](mailto:mail@pmeier.de)
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+**Technische Hochschule Deggendorf**<br>
+Fakultät für Elekrotechnik, Medientechnik und Informatik
 
+Dieter-Görlitz-Platz 1<br>
+94469 Deggendorf<br>
+Germany
 
-[jekyll-organization]: https://github.com/jekyll
+## Curriculum Vitae
+
+- **2011 - heute**: Technische Hochschule Deggendorf
+<br>Lehrauftrag für Beschallungstechnik
+
+- **2008 - heute**: Technische Hochschule Deggendorf
+<br>Laboringenieur für Audiotechnik
+
+- **2008 - 2011**: Technische Hochschule Deggendorf
+<br>_Master of Engineering_ mit Auszeichnung
+
+- **2006**: Institut für Rundfunktechnik (IRT) München
+<br>Praktikum: Audio Software Development
+
+- **2004 - 2008**: Technische Hochschule Deggendorf
+<br>_Dipl.-Ing. (FH)_ mit Auszeichnung
+
+## Interessen
+
+- Audiometrie
+- Audio Analyse
+- Digitale Audio Signalverarbeitung
+- Psychoakustik
+- Software Development
+
+## Projekte
+
+- **Audiometer**<br>
+Audiometrie-Software mit Békésy-Tracking
+- **Steuerungssystem für Hörversuche**<br>
+Max/MSP + Ableton Live + M4L-Plugins
+- **[grooveproject.de](http://www.grooveproject.de)**<br>
+Web-App mit Angular und Bootstrap
+
+## Lehrtätigkeiten
+
+Technische Hochschule Deggendorf<br>
+**Bachelorstudiengang Medientechnik**
+
+- Praktische Lehrveranstaltung (**Beschallungstechnik**)
+- Praktikum: Tontechnik (**Psychoakustik**)
+- Praktikum: Digitale Medien I (**Signalverarbeitung**)
+- Praktikum: Digitale Medien II (**Modulationsverfahren**)
+
+## Auszeichnungen
+
+> **Oberbürgermeister-Dieter-Görlitz-Preis**<br>
+Juli 2009 (Stadt Deggendorf)
