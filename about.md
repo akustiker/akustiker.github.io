@@ -38,11 +38,9 @@ Germany
 
 ## Arbeiten
 
-- **Masterarbeit**<br>
-Peter Meier (2011) Implementierung digitaler Audiofilter zur Anwendung in psychoakustischen Hörversuchssystemen [Masterarbeit]. Deggendorf: Technische Hochschule.
+[1] Peter Meier (2008) **Optimierte Signalprogrammierung eines Hörschwellenmesssystems mit Verifizierung durch Hörversuche** [Diplomarbeit]. Deggendorf: Technische Hochschule.
 
-- **Diplomarbeit**<br>
-Peter Meier (2008) Optimierte Signalprogrammierung eines Hörschwellenmesssystems mit Verifizierung durch Hörversuche [Diplomarbeit]. Deggendorf: Technische Hochschule.
+[2] Peter Meier (2011) **Implementierung digitaler Audiofilter zur Anwendung in psychoakustischen Hörversuchssystemen** [Masterarbeit]. Deggendorf: Technische Hochschule.
 
 ## Interessen
 
