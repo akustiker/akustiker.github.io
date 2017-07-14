@@ -6,6 +6,8 @@ permalink: /about/
 
 ## Kontakt
 
+![Peter Meier]({{ site.url }}/assets/petermeier.jpg)
+
 #### **Peter Meier, M.Eng.**
 📧 [peter.meier@th-deg.de](mailto:peter.meier@th-deg.de)<br>
 📧 [mail@pmeier.de](mailto:mail@pmeier.de)
