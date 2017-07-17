@@ -49,11 +49,14 @@ Technische Hochschule Deggendorf<br>
 ## Projekte
 
 - **Audiometer**<br>
-Audiometrie-Software mit Békésy-Tracking
+Audiometrie-Software mit Békésy-Tracking<br>
+🚩 Software-Development C++
 - **Steuerungssystem für Hörversuche**<br>
-Max/MSP + Ableton Live + M4L-Plugins
+Hörversuchssystem auf Basis von Max/MSP + Ableton Live + M4L-Plugins<br>
+🚩 Entwicklung von Patches, Plugins und Scripten (Python)
 - **[grooveproject.de](http://www.grooveproject.de)**<br>
-Web-App mit Angular und Bootstrap
+Web-App auf Basis von [Angular](https://angular.io) und [Bootstrap](http://getbootstrap.com/)
+🚩 Web-Development JavaScript, HTML5, Sass, TypeScript
 
 ## Themen
 
