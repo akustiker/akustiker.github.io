@@ -60,13 +60,13 @@ _Web-App auf Basis von [Angular](https://angular.io) und [Bootstrap](http://getb
 
 ## Interessen
 
-- **Themenfelder**<br>
+- 📌**Themenfelder**<br>
 Audiometrie, Audio Analyse, Digitale Audio Signalverarbeitung, Psychoakustik, Software Development
 
-- **Coding**<br>
+- 📌**Coding**<br>
 C++, Python, Matlab, JavaScript, TypeScript
 
-- **Web**<br>
+- 📌**Web**<br>
 HTML5, CSS, Sass, Angular, Bootstrap
 
 ## Arbeiten
