@@ -58,9 +58,19 @@ _Hörversuchssystem auf Basis von Max/MSP + Ableton Live + M4L-Plugins_<br>
 _Web-App auf Basis von [Angular](https://angular.io) und [Bootstrap](http://getbootstrap.com/)_<br>
 🚩Web-Development mit JavaScript, TypeScript, HTML5, Sass
 
-## Themen
+## Interessen
+
+### Themenfelder
 
 Audiometrie, Audio Analyse, Digitale Audio Signalverarbeitung, Psychoakustik, Software Development
+
+### Coding
+
+C++, Python, Matlab, JavaScript, TypeScript
+
+### Web
+
+HTML5, CSS, Sass, Angular, Bootstrap
 
 ## Arbeiten
 
