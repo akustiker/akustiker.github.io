@@ -4,21 +4,6 @@ title: About
 permalink: /about/
 ---
 
-## Kontakt
-
-![Peter Meier]({{ site.url }}/assets/petermeier.jpg)
-
-#### **Peter Meier, M.Eng.**
-📧 [peter.meier@th-deg.de](mailto:peter.meier@th-deg.de)<br>
-📧 [mail@pmeier.de](mailto:mail@pmeier.de)
-
-**Technische Hochschule Deggendorf**<br>
-Fakultät für Elekrotechnik, Medientechnik und Informatik
-
-Dieter-Görlitz-Platz 1<br>
-94469 Deggendorf<br>
-Germany
-
 ## Curriculum Vitae
 
 - **2011 - heute**: Technische Hochschule Deggendorf
