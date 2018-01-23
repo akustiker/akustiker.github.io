@@ -1,0 +1,43 @@
+---
+layout: default
+---
+
+<!-- Main jumbotron for a primary marketing message or call to action -->
+<div class="jumbotron">
+  <div class="container">
+    <h1 class="display-3">Hello, world!</h1>
+    <p>This is a template for a simple marketing or informational website. It includes a large callout called a jumbotron and three supporting pieces of content. Use it as a starting point to create something more unique.</p>
+    <p><a class="btn btn-primary btn-lg" href="#" role="button">Learn more &raquo;</a></p>
+  </div>
+</div>
+
+<div class="container">
+
+  <h2>Blog</h2>
+  <p class="lead">Hier finden Sie alle meine letzten Posts.</p>
+
+  <table class="table table-striped">
+    <thead>
+      <tr>
+        <th scope="col">#</th>
+        <th scope="col">Datum</th>
+        <th scope="col">Titel</th>
+        <th scope="col">Kategorie</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for post in site.posts %}
+      {% assign date_format = site.minima.date_format | default: "%F" %}
+      <tr>
+        <th scope="row">{{ forloop.index }}</th>
+        <td>{{ post.date | date: date_format }}</td>
+        <td><a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></td>
+        <td><span class="badge badge-primary">{{ post.categories }}</span></td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+
+  <p class="rss-subscribe"><a href="{{ "/feed.xml" | relative_url }}"> RSS <i class="fa fa-rss" aria-hidden="true"></i></a> abonieren.</p>
+
+</div> <!-- /container -->
