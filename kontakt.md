@@ -1,10 +1,10 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Kontakt
+permalink: /kontakt/
 ---
 
-#### **Peter Meier, M.Eng.**
+**Peter Meier, M.Eng.**<br>
 📧 [peter.meier@th-deg.de](mailto:peter.meier@th-deg.de)<br>
 📧 [mail@pmeier.de](mailto:mail@pmeier.de)
 
