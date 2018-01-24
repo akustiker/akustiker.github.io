@@ -5,8 +5,13 @@ layout: default
 <!-- Main jumbotron for a primary marketing message or call to action -->
 <div class="jumbotron">
   <div class="container">
-    <h1 class="display-3">Hello, world!</h1>
-    <p>This is a template for a simple marketing or informational website. It includes a large callout called a jumbotron and three supporting pieces of content. Use it as a starting point to create something more unique.</p>
+    <h1><b>P</b>eter <b>M</b>eier <small class="text-muted">Master of Engineering</small></h1>
+    <p class="lead uppercase"><b>A</b>udio Engineer, <b>S</b>oftware Developer, <b>M</b>usician</p>
+    <p>
+      <a href="https://github.com/akustiker" target="_blank"><i class="fa fa-github" aria-hidden="true"></i> GitHub</a> &middot;
+      <a href="https://twitter.com/akustiker" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i> Twitter</a> &middot;
+      <a href="mailto:mail@pmeier.de"><i class="fa fa-mail" aria-hidden="true"></i> Email</a>
+    </p>
   </div>
 </div>
 
@@ -31,7 +36,7 @@ layout: default
         <th scope="row">{{ forloop.index }}</th>
         <td>{{ post.date | date: date_format }}</td>
         <td><a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></td>
-        <td><span class="badge badge-primary">{{ post.categories }}</span></td>
+        <td><span class="badge badge-secondary">{{ post.categories }}</span></td>
       </tr>
       {% endfor %}
     </tbody>
