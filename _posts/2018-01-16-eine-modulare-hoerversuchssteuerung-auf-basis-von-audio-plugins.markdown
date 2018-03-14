@@ -15,7 +15,7 @@ Zur mündlichen Präsentation angenommen. <a href="http://2018.daga-tagung.de/" 
 
 ```latex
 @incollection{Meier2018,
-    title     = {% raw %}{{E}ine modulare {H}örversuchssteuerung auf {B}asis von {A}udio-{P}lugins}{% endraw %},
+    title     = {{E}ine modulare {H}örversuchssteuerung auf {B}asis von {A}udio-{P}lugins},
     author    = {Meier, Peter and Krump, Gerhard},
     booktitle = {Fortschritte der Akustik - DAGA 2018},
     publisher = {Deutsche Gesellschaft für Akustik e.V.},
