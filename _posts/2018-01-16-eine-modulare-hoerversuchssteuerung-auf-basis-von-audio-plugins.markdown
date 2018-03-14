@@ -5,7 +5,7 @@ date:   2018-01-16 20:18:00 +0100
 categories: Publikation
 ---
 
-P. Meier and G. Krump, "**Eine modulare Hörversuchssteuerung auf Basis von Audio-Plugins**,” in *Fortschritte der Akustik - DAGA 2018*. München, Germany: Deutsche Gesellschaft für Akustik e.V., März 2018.
+P. Meier und G. Krump, "**Eine modulare Hörversuchssteuerung auf Basis von Audio-Plugins**,” in *Fortschritte der Akustik - DAGA 2018*. München, Germany: Deutsche Gesellschaft für Akustik e.V., März 2018.
 [[Link]](https://mygit.th-deg.de/audiotechnik/Meier2018)
 [[Manuskript]](https://mygit.th-deg.de/pemeier/DAGA-2018-Hoerversuchssteuerung/-/jobs/artifacts/master/raw/Manuskript/Meier2018.pdf?job=manuskript)
 [[Vortrag]](https://mygit.th-deg.de/pemeier/DAGA-2018-Hoerversuchssteuerung/-/jobs/artifacts/master/raw/Vortrag/Meier2018-Vortrag.pdf?job=vortrag)
