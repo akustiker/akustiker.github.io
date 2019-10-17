@@ -32,10 +32,8 @@ disqus:
   shortname: akustiker
 
 navigation:
-  - title: Publikationen
-    url: /publikationen/
-  - title: Kontakt
-    url: /kontakt/
+  - title: Blog
+    url: /blog/
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
