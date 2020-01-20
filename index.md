@@ -44,7 +44,7 @@ layout: default
             <span class="text-muted">Laboringenieur für Audiotechnik</span><br>
             Labor Psychoakustik (J 105)<br>
             Tel. +49 991 3615-590<br>
-            <a href="mailto:peter.meier@th-deg.de?subject=Feedback">peter.meier@th-deg.de</a>
+            peter . meier [at] th-deg . de
           </li>
         </ul>
       </div>
